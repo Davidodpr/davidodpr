@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning the basics of Ai and scratching on Python.
-- 💬 I do know how to sell almost anything, so are you looking for someone to sell your fantastic code creations, I might be that person. 
+- 🌱 I'm currently exploring the basics of AI and satisfying my curiosity by practicing some introductory Python exercises. On another note, I have extensive experience in sales and can sell almost anything. If you're looking for a friendly and approachable person to help promote and sell your fantastic code creations, I might be that person for you." 
 <!--
 **Davidodpr/davidodpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
